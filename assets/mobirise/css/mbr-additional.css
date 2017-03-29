@@ -742,3 +742,6 @@ h6,
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
 }
+#header2-1h .mbr-section-title {
+  text-align: left;
+}
