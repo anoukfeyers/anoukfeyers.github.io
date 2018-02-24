@@ -2199,6 +2199,11 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-qKAWrczGxx {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
 .cid-qKALjDqjaq .navbar {
   padding: .5rem 0;
   background: #232323;
